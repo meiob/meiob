@@ -37,7 +37,7 @@
 </div>
 
 ### ⭐️ 受賞歴 ⭐️
-- [Microsoft Cybersecurity Scholar 2024]()
+- Microsoft Cybersecurity Scholar 2024
 - [Inspirit AI Ambassador 2023, 2024](https://drive.google.com/file/d/1ZOfwV1No3JxjttuH1vWbzPvDZjQrpmEe/view?usp=drive_link)
 - [Inspirit AI Scholar 2021](https://drive.google.com/file/d/1CsAs2mqDwshvz4UylhFMeDHZKUN_3FeN/view?usp=drive_link)
 
