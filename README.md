@@ -45,7 +45,7 @@
 ### 🍧 おまけ 1
 ちなみにかしこいボクは、スタンフォードと MIT 大学院生がつくった高校生向けのコンピューターサイエンス課外講習の Inspirit AI でアンバサダーしてるので、夏期講習に興味ある方は ↓ の QR コードをスキャンしてな。えっと英語でだからそこんとこちゃんとできるようにしてや！
 
-![Inspirit AI Summer 2024 Invite](/images/inspiritai-su24-ai.jpg)
+![Inspirit AI Summer 2024 Invite](/media/inspiritai-su24-ai.jpg)
 
 ### 🍧 おまけ 2
 みんなが大好き TensorFlow のインストール手順:
