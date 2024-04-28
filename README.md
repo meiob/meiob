@@ -16,6 +16,11 @@
 >- VS Code
 >- Microsoft Visual Studio
 
+### 👾 GitHub ステータス
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiob&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>\
+\
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=meiob&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ### ✍️ 資格ショーケース:
 #### Microsoft Certifications:
 <a heref="https://www.credly.com/badges/2a99c938-7d3c-4704-ad65-a74f1e7f0b36/public_url" title="to credly.com"><img src="media/microsoft-certified-azure-ai-fundamentals.png" width="20%" alt="Microsoft Certified: Azure AI Fundamental"></a>
