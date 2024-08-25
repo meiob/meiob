@@ -8,14 +8,29 @@
 
 ### ✏️ 使ってる環境はこんな感じです。
 
->- CPU: *Ryzen ７ 7800 X3D* 
->- Python 3.6.x
->- Tensorflow 2.6.2
->- pip 21.3.1
->- OS は Windows 11 で、エディタはマイクロソフトの VSコード 使ってるで。
->- VS Code
->- Microsoft Visual Studio
+```bash
+                   -`                    meio@SAEDA
+                  .o+`                   ----------
+                 `ooo/                   OS: Arch Linux on Windows 10 x86_64
+                `+oooo:                  Kernel: 5.15.153.1-microsoft-standard-WSL2
+               `+oooooo:                 Uptime: 11 secs
+               -+oooooo+:                Packages: 193 (pacman)
+             `/:-:++oooo+:               Shell: bash 5.2.32
+            `/++++/+++++++:              Terminal: Windows Terminal
+           `/++++++++++++++:             CPU: AMD Ryzen 7 7800X3D (16) @ 4.192GHz
+          `/+++ooooooooooooo/`           GPU: 9e96:00:00.0 Microsoft Corporation Basic Render Driver
+         ./ooosssso++osssssso+`          Memory: 403MiB / 15548MiB
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
 
+[~] >
+```
 ### 👾 GitHub ステータス
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=meiob&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>\
 \
