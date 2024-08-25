@@ -9,7 +9,7 @@
 ### ✏️ 使ってる環境はこんな感じです。
 
 ```bash
-                   -`                    meio@SAEDA
+                   -`                    
                   .o+`                   ----------
                  `ooo/                   OS: Arch Linux on Windows 10 x86_64
                 `+oooo:                  Kernel: 5.15.153.1-microsoft-standard-WSL2
